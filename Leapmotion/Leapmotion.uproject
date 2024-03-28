@@ -35,6 +35,23 @@
 			"Name": "ElectronicNodes",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
+		},
+		{
+			"Name": "OWLLivestreamingToolkit",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/92307b570d474fbc87592b973ce82e3b",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "UltraleapTracking",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bee1e122fcae438abb50441ee6286d92"
+		},
+		{
+			"Name": "HardwareEncoders",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
